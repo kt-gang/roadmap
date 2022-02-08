@@ -1,7 +1,5 @@
 # Roadmap for Anything Programming
-Not a specific  roadmap for a particular field, but a general one:
-
-1. Basics of the field (why is it important, how it is impacting companies and people, what is its future, etc.) and the relevant big names (firms who are known to work in the field).
+1. Know the basics of the field (why is it important, how it is impacting companies and people, what is its future, etc.) and the relevant big names (firms who are known to work in the field).
 
 2. Choose your favorite portfolio from the field (like ML engineer in data science, or Backend Dev in web development).
 Note: This needs not be your target job profile; it is just for beginning in your relevant field, you can always change it given that you are not losing on the importance of any of the existing skills you gained.
@@ -12,7 +10,7 @@ Note: This needs not be your target job profile; it is just for beginning in you
 
 5. Don't try learning any part of the skill in unnecessary detail (like wasting time on what is using namespace std; in C++ as a beginner); rather try experimenting with whatever you learn, even if you don't understand).
 
-6. For every major step corresponding to the skill you learn, do small projects and after learning the skill at your level, do TONS of projects. You'll always forget some part of whatever you learn, but projects will make you retain the most relevant skills (don't copy paste projects).
+6. **For every major step corresponding to the skill you learn, do small projects and after learning the skill at your level, do TONS of projects**. You'll always forget some part of whatever you learn, but projects will make you retain the most relevant skills (don't copy paste projects).
 
 7. Clear your doubts (many platforms like StackOverflow) as you climb the skill ladder but at a low frequency (don't keep looking for solutions every now and then; try out the thing and note down the problem, then resolve, say, every 3 days or every week)
 
@@ -24,13 +22,13 @@ Note: This needs not be your target job profile; it is just for beginning in you
 ----
 _**Recommended Bonus:**_
 
-a. Knowing the basics of DevOps and at least one cloud platform like AWS, GCP or Azure is helpful for an aspirant of any field.
+- Knowing the basics of DevOps and at least one cloud platform like AWS, GCP or Azure is helpful for an aspirant of any field.
 
-b. Competitive programming should definitely be done in parallel with what the roadmap suggests (any language is good but some contests favour C++, Java) because this is one strong skill to have, especially if you have a high rank on a renowned CP site like CodeChef.
+- Competitive programming should definitely be done in parallel with what the roadmap suggests (any language is good but some contests favour C++, Java) because this is one strong skill to have, especially if you have a high rank on a renowned CP site like CodeChef.
 
 ----
 
-- ## If you have done all of these except **point 9**, then:
+- ## If you have done all of these, then:
   - Start seeking for connections on LinkedIn in your relevant field
   - Take guidance from experienced people in your domain
   - Also keep checking on internship and remote job sites for understanding what exactly employers look in the portfolio of your choice
