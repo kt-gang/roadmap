@@ -34,3 +34,8 @@ _**Recommended Bonus:**_
   - Also keep checking on internship and remote job sites for understanding what exactly employers look in the portfolio of your choice
   - When you are at intermediate to advanced level, start learning to prepare your resume and how to tackle interviews
   - **The most important thing for all domains: DEVELOP SOFT SKILLS**
+
+
+# Resources
+- See [this](https://github.com/kamranahmedse/developer-roadmap) amazing repository for a more detailed roadmap 
+- See [this one](https://github.com/dhairyashah1/Get_Better_at_CP_in_2_Months) for CP
